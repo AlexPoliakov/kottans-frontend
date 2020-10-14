@@ -21,4 +21,9 @@
 be interesting to study "Promise" based HTTP client for the browser and node.js: [axios](https://github.com/axios/axios).
 ---------------------
 ## [Git Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
-### [Git for Team Collaboration]()
+### [Task - Git for Team Collaboration]()
+
+- Can be called continuation of the course "Version Control with Git" where you to learn to build projects collaboratively.
+- In lesson 1, I did not learn anything new, but the following two gave excellent material for studying. That are "filtering collaborator's commits": __group commits by author with git shortlog__ (git shortlog, git shortlog -s -n, ), __filter commits with the --author flag__ (git log --author="******"), __filter commits using the --grep flag__ (git log --grep="bags"); "Determine how best to contribute to a project": __CONTRIBUTING.md File__, __GitHub Issues__, __Topic Branches__, __Best Practices__; "create a new remote with the __git remote add__ command"; using __squash commits__ (git rebase);
+- All these tools I would like to use when working with projects.
+---------------------
