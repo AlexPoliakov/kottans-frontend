@@ -6,7 +6,7 @@
 - The course "How to Use Git and GitHub" is cognitive, well-structured, but the manner of teaching is very melancholic and frankly - boring;
 ---------------------
 ## [Linux CLI, and HTTP](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
-### [Task - Linux CLI, and HTTP] (https://github.com/AlexPoliakov/kottans-frontend/blob/master/task_linux_cli/task_linux_cli.md)
+### [Task - Linux CLI, and HTTP](https://github.com/AlexPoliakov/kottans-frontend/blob/master/task_linux_cli/task_linux_cli.md)
 - Excellent material with elements of interactivity. Allows you to consolidate the studied material.
 
 ### Article:
