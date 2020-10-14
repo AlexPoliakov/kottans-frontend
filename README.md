@@ -21,4 +21,4 @@
 be interesting to study "Promise" based HTTP client for the browser and node.js: [axios](https://github.com/axios/axios).
 ---------------------
 ## [Git Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
-### [Task - Linux CLI, and HTTP]()
+### [Git for Team Collaboration]()
