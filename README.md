@@ -32,3 +32,6 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 - Good introductory courses on HTML and CSS.
 - As free content - using interactivity, I consider it excellent material for beginners.
 - I saw nothing new for myself.
+---------------------
+## [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
+### [Task - Responsive Web Design Fundamentals]()
