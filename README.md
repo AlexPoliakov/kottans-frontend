@@ -1,7 +1,7 @@
 # kottans-frontend
 ---------------------
 ## [Git and GitHub Intro](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
-###  [Task - Git and GitHub Intro](https://github.com/AlexPoliakov/kottans-frontend/blob/develop/task_0/task_0.md)
+###  [Task - Git and GitHub Intro](https://github.com/AlexPoliakov/kottans-frontend/blob/master/task_git/task_git.md)
 - A great attempt to update knowledge on Git and GitHub;
 - The course "How to Use Git and GitHub" is cognitive, well-structured, but the manner of teaching is very melancholic and frankly - boring;
 ---------------------
