@@ -28,7 +28,7 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 - All these tools I would like to use when working with projects.
 ---------------------
 ## [Intro to HTML and CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
-### [Task - Intro to HTML and CSS]()
+### [Task - Intro to HTML and CSS](https://github.com/AlexPoliakov/kottans-frontend/blob/master/task_html_css_intro/task_html_css_intro.md)
 - Good introductory courses on HTML and CSS.
 - As free content - using interactivity, I consider it excellent material for beginners.
 - I saw nothing new for myself.
